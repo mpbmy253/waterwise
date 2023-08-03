@@ -1,0 +1,651 @@
+.contact-us-page,
+.contact-us-page * {
+    box-sizing: border-box;
+}
+
+.contact-us-page {
+    background: #ffffff;
+    width: 2240px;
+    height: 2500px;
+    position: relative;
+    overflow: hidden;
+}
+
+.footer {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1.00) 0%, rgba(255, 255, 255, 0.00) 100%);
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 2240px;
+    height: 480px;
+    position: absolute;
+    left: 0px;
+    top: 2022px;
+    overflow: hidden;
+}
+
+.group-232 {
+    position: absolute;
+    inset: 0;
+}
+
+.group-231 {
+    width: 175px;
+    height: 200px;
+    position: static;
+}
+
+.support {
+    color: #ffffff;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 986px;
+    top: 77px;
+}
+
+.help-centre {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 986px;
+    top: 129px;
+}
+
+.account-information {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 986px;
+    top: 171px;
+}
+
+.about {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 986px;
+    top: 213px;
+}
+
+.contact-us {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 986px;
+    top: 255px;
+}
+
+.group-230 {
+    width: 152px;
+    height: 200px;
+    position: static;
+}
+
+.talk-to-support {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 1225px;
+    top: 129px;
+}
+
+.support-docs {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 1225px;
+    top: 171px;
+}
+
+.system-status {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 1225px;
+    top: 213px;
+}
+
+.covid-responde {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 1225px;
+    top: 255px;
+}
+
+.help-and-solution {
+    color: #ffffff;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 1225px;
+    top: 77px;
+}
+
+.group-229 {
+    width: 132px;
+    height: 200px;
+    position: static;
+}
+
+.update {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 1441px;
+    top: 129px;
+}
+
+.security {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 1441px;
+    top: 171px;
+}
+
+.beta-test {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 1441px;
+    top: 213px;
+}
+
+.pricing-product {
+    color: #a6a6a6;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 1441px;
+    top: 255px;
+}
+
+.product {
+    color: #ffffff;
+    text-align: left;
+    font: 500 18px 'Inter', sans-serif;
+    position: absolute;
+    left: 1441px;
+    top: 77px;
+}
+
+._2023-water-wise-copyright-and-rights-reserved {
+    color: #100e0e;
+    text-align: left;
+    font: 500 18px/30px 'Inter', sans-serif;
+    position: absolute;
+    left: 158px;
+    top: 363px;
+}
+
+.group-234 {
+    position: absolute;
+    inset: 0;
+}
+
+.terms-and-condtions {
+    color: #100e0e;
+    text-align: left;
+    font: 500 18px/30px 'Inter', sans-serif;
+    position: absolute;
+    left: 1242px;
+    top: 363px;
+    width: 185px;
+}
+
+.ellipse-61 {
+    background: #a6a6a6;
+    border-radius: 50%;
+    width: 4px;
+    height: 4px;
+    position: absolute;
+    left: 1437px;
+    top: 376px;
+}
+
+.privacy-policy {
+    color: #100e0e;
+    text-align: left;
+    font: 500 18px/30px 'Inter', sans-serif;
+    position: absolute;
+    left: 1451px;
+    top: 363px;
+    width: 122px;
+}
+
+.facebook {
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    left: 246px;
+    top: 109px;
+}
+
+.facebook2 {
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.instagram {
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    left: 334px;
+    top: 109px;
+}
+
+.instagram2 {
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.linked-in {
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    left: 158px;
+    top: 109px;
+}
+
+.linked-in2 {
+    width: 73px;
+    height: 73px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.twitter-variant-05 {
+    width: 71px;
+    height: 71.07px;
+    position: absolute;
+    left: 422px;
+    top: 109px;
+}
+
+.twitter {
+    width: 71px;
+    height: 71.07px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.top {
+    position: absolute;
+    inset: 0;
+}
+
+.gradient-bg {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.logo {
+    height: 97.53px;
+    position: absolute;
+    right: 1676.97px;
+    left: 77.94287109375px;
+    top: 70.99px;
+}
+
+.login {
+    background: #fffefe;
+    border-radius: 40px;
+    padding: 20px 30px 20px 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 247px;
+    height: 72px;
+    position: absolute;
+    left: 1883px;
+    top: 74px;
+    box-shadow: 0px 11px 36px 0px rgba(0, 0, 0, 0.14);
+}
+
+.login2 {
+    color: #3f2013;
+    text-align: left;
+    font: 600 36px 'Montserrat', sans-serif;
+    position: relative;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1236px;
+    top: 88px;
+    overflow: hidden;
+}
+
+.home {
+    color: #fffefe;
+    text-align: left;
+    font: 700 36px 'Montserrat', sans-serif;
+    position: relative;
+}
+
+.about-us {
+    color: #fffefe;
+    text-align: left;
+    font: 700 36px 'Montserrat', sans-serif;
+    position: relative;
+}
+
+.contact-us2 {
+    color: #fffefe;
+    text-align: left;
+    font: 700 36px 'Montserrat', sans-serif;
+    position: relative;
+}
+
+.get-in-touch {
+    color: linear-gradient(98.28deg, rgba(74, 105, 100, 1.00) 0%, rgba(111, 156, 149, 1.00) 99.98999834060669%, rgba(111, 156, 149, 1.00) 100%);
+    text-align: center;
+    font: 700 96px 'Montserrat', sans-serif;
+    position: absolute;
+    left: 642px;
+    top: 336px;
+    width: 875px;
+}
+
+.background-deco {
+    position: absolute;
+    left: 0px;
+    top: 316px;
+    overflow: visible;
+}
+
+.frame-4 {
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+    align-items: flex-end;
+    justify-content: center;
+    position: absolute;
+    left: 1244px;
+    top: 598px;
+}
+
+.name-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 788px;
+    position: relative;
+}
+
+.input-field-base {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.input-with-label {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.label {
+    color: var(--gray-700, #344054);
+    text-align: left;
+    font: 500 24px/20px 'Montserrat', sans-serif;
+    position: relative;
+}
+
+.input {
+    background: #fffefe;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #d0d5dd;
+    border-width: 1px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 61px;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    flex: 1;
+    position: relative;
+}
+
+.text {
+    color: var(--gray-500, #667085);
+    text-align: left;
+    font: 400 24px/24px 'Montserrat', sans-serif;
+    position: relative;
+    flex: 1;
+}
+
+.email-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 788px;
+    position: relative;
+}
+
+.input2 {
+    background: var(--white, #ffffff);
+    border-radius: 8px;
+    border-style: solid;
+    border-color: var(--gray-300, #d0d5dd);
+    border-width: 1px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 61px;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+}
+
+.mobile-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 788px;
+    position: relative;
+}
+
+.message-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 788px;
+    position: relative;
+}
+
+.input3 {
+    background: var(--white, #ffffff);
+    border-radius: 8px;
+    border-style: solid;
+    border-color: var(--gray-300, #d0d5dd);
+    border-width: 1px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 303px;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+}
+
+.content2 {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    flex: 1;
+    height: 24px;
+    position: relative;
+}
+
+.contact-button {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 788px;
+    position: relative;
+}
+
+.button {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.button-base {
+    background: #4a6964;
+    border-radius: 8px;
+    padding: 12px 20px 12px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    height: 60px;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+}
+
+.text2 {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 700 24px/24px 'Montserrat', sans-serif;
+    position: relative;
+}
+
+
+
+
+.input-field {
+    background: var(--white, #ffffff);
+    border-radius: 8px;
+    border-style: solid;
+    border-color: var(--gray-300, #d0d5dd);
+    border-width: 1px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+    font-size: 24px;
+    width: 788px;
+    height: 61px;
+}
+
+.input-field2 {
+    background: var(--white, #ffffff);
+    border-radius: 8px;
+    border-style: solid;
+    border-color: var(--gray-300, #d0d5dd);
+    border-width: 1px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+    font-size: 24px;
+    width: 788px;
+    height: 303px;
+}

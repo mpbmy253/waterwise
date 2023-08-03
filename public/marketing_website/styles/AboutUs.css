@@ -1,0 +1,1204 @@
+.about-us-page,
+.about-us-page * {
+	box-sizing: border-box;
+}
+
+.about-us-page {
+	background: #ffffff;
+	width: 2240px;
+	height: 2500px;
+	position: relative;
+	overflow: hidden;
+}
+
+.footer {
+	background: linear-gradient(180deg, rgba(255, 255, 255, 1.00) 0%, rgba(255, 255, 255, 0.00) 100%);
+	border-style: solid;
+	border-color: #000000;
+	border-width: 1px;
+	width: 2240px;
+	height: 480px;
+	position: absolute;
+	left: 0px;
+	top: 2022px;
+	overflow: hidden;
+}
+
+.group-232 {
+	position: absolute;
+	inset: 0;
+}
+
+.group-231 {
+	width: 175px;
+	height: 200px;
+	position: static;
+}
+
+.support {
+	color: #ffffff;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 986px;
+	top: 77px;
+}
+
+.help-centre {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 986px;
+	top: 129px;
+}
+
+.account-information {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 986px;
+	top: 171px;
+}
+
+.about {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 986px;
+	top: 213px;
+}
+
+.contact-us {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 986px;
+	top: 255px;
+}
+
+.group-230 {
+	width: 152px;
+	height: 200px;
+	position: static;
+}
+
+.talk-to-support {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 1225px;
+	top: 129px;
+}
+
+.support-docs {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 1225px;
+	top: 171px;
+}
+
+.system-status {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 1225px;
+	top: 213px;
+}
+
+.covid-responde {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 1225px;
+	top: 255px;
+}
+
+.help-and-solution {
+	color: #ffffff;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 1225px;
+	top: 77px;
+}
+
+.group-229 {
+	width: 132px;
+	height: 200px;
+	position: static;
+}
+
+.update {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 1441px;
+	top: 129px;
+}
+
+.security {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 1441px;
+	top: 171px;
+}
+
+.beta-test {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 1441px;
+	top: 213px;
+}
+
+.pricing-product {
+	color: #a6a6a6;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 1441px;
+	top: 255px;
+}
+
+.product {
+	color: #ffffff;
+	text-align: left;
+	font: 500 18px 'Inter', sans-serif;
+	position: absolute;
+	left: 1441px;
+	top: 77px;
+}
+
+._2023-water-wise-copyright-and-rights-reserved {
+	color: #100e0e;
+	text-align: left;
+	font: 500 18px/30px 'Inter', sans-serif;
+	position: absolute;
+	left: 158px;
+	top: 363px;
+}
+
+.group-234 {
+	position: absolute;
+	inset: 0;
+}
+
+.terms-and-condtions {
+	color: #100e0e;
+	text-align: left;
+	font: 500 18px/30px 'Inter', sans-serif;
+	position: absolute;
+	left: 1242px;
+	top: 363px;
+	width: 185px;
+}
+
+.ellipse-61 {
+	background: #a6a6a6;
+	border-radius: 50%;
+	width: 4px;
+	height: 4px;
+	position: absolute;
+	left: 1437px;
+	top: 376px;
+}
+
+.privacy-policy {
+	color: #100e0e;
+	text-align: left;
+	font: 500 18px/30px 'Inter', sans-serif;
+	position: absolute;
+	left: 1451px;
+	top: 363px;
+	width: 122px;
+}
+
+.facebook {
+	width: 73px;
+	height: 73px;
+	position: absolute;
+	left: 246px;
+	top: 109px;
+}
+
+.facebook2 {
+	width: 73px;
+	height: 73px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.instagram {
+	width: 73px;
+	height: 73px;
+	position: absolute;
+	left: 334px;
+	top: 109px;
+}
+
+.instagram2 {
+	width: 73px;
+	height: 73px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.linked-in {
+	width: 73px;
+	height: 73px;
+	position: absolute;
+	left: 158px;
+	top: 109px;
+}
+
+.linked-in2 {
+	width: 73px;
+	height: 73px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.twitter-variant-05 {
+	width: 71px;
+	height: 71.07px;
+	position: absolute;
+	left: 422px;
+	top: 109px;
+}
+
+.twitter {
+	width: 71px;
+	height: 71.07px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.deco {
+	position: absolute;
+	inset: 0;
+}
+
+.ellipse-23 {
+	background: linear-gradient(180deg, rgba(58, 149, 222, 1.00) 0%, rgba(79, 125, 113, 0.00) 100%);
+	border-radius: 50%;
+	width: 433px;
+	height: 441px;
+	position: absolute;
+	left: 299.19px;
+	top: 653.34px;
+}
+
+.ellipse-25 {
+	background: linear-gradient(180deg, rgba(58, 149, 222, 1.00) 0%, rgba(79, 125, 113, 0.00) 100%);
+	border-radius: 50%;
+	width: 433px;
+	height: 441px;
+	position: absolute;
+	left: 225.19px;
+	top: 866.34px;
+}
+
+.ellipse-24 {
+	background: linear-gradient(180deg, rgba(58, 149, 222, 1.00) 0%, rgba(79, 125, 113, 0.00) 100%);
+	border-radius: 50%;
+	width: 433px;
+	height: 441px;
+	position: absolute;
+	left: 143.19px;
+	top: 533.34px;
+}
+
+.illustration-business-technology-startup-account-preferences-user-profile-settings-woman-graph-analysis {
+	width: 758px;
+	height: 778px;
+	position: absolute;
+	left: 102.19px;
+	top: 477.34px;
+	overflow: hidden;
+}
+
+.clip-path-group {
+	position: absolute;
+	inset: 0;
+}
+
+.clip-0-108-37631 {
+	position: absolute;
+	left: -16px;
+	top: 17px;
+	overflow: visible;
+}
+
+.business-technology-startup-account-preferences-user-profile-settings-woman-graph-analysis {
+	width: 600.96px;
+	height: 1017.92px;
+	position: static;
+}
+
+.group {
+	position: absolute;
+	left: 481.55px;
+	top: -261.82px;
+	overflow: visible;
+}
+
+.vector-6 {
+	position: absolute;
+	left: 412px;
+	top: 471.49px;
+	overflow: visible;
+}
+
+.vector-7 {
+	position: absolute;
+	left: 473.27px;
+	top: 547.4px;
+	overflow: visible;
+}
+
+.vector-8 {
+	position: absolute;
+	left: 473.3px;
+	top: 546.9px;
+	overflow: visible;
+}
+
+.vector-9 {
+	position: absolute;
+	left: 484.19px;
+	top: 492.62px;
+	overflow: visible;
+}
+
+.vector-10 {
+	position: absolute;
+	left: 505.28px;
+	top: 501.55px;
+	overflow: visible;
+}
+
+.vector-11 {
+	position: absolute;
+	left: 473.28px;
+	top: 546.97px;
+	overflow: visible;
+}
+
+.vector-12 {
+	position: absolute;
+	left: 421.93px;
+	top: 481.86px;
+	overflow: visible;
+}
+
+.vector-13 {
+	position: absolute;
+	left: 472.53px;
+	top: 515.88px;
+	overflow: visible;
+}
+
+.vector-14 {
+	position: absolute;
+	left: 412px;
+	top: 471.49px;
+	overflow: visible;
+}
+
+.vector-15 {
+	position: absolute;
+	left: 484.19px;
+	top: 528.75px;
+	overflow: visible;
+}
+
+.vector-16 {
+	position: absolute;
+	left: 487.18px;
+	top: 492.63px;
+	overflow: visible;
+}
+
+.vector-17 {
+	position: absolute;
+	left: 487.14px;
+	top: 528.36px;
+	overflow: visible;
+}
+
+.vector-18 {
+	position: absolute;
+	left: 484.19px;
+	top: 528.33px;
+	overflow: visible;
+}
+
+.vector-19 {
+	position: absolute;
+	left: 487.14px;
+	top: 528.36px;
+	overflow: visible;
+}
+
+.vector-20 {
+	position: absolute;
+	left: 473.27px;
+	top: 547.29px;
+	overflow: visible;
+}
+
+.vector-21 {
+	position: absolute;
+	left: 505.28px;
+	top: 501.55px;
+	overflow: visible;
+}
+
+.vector-22 {
+	position: absolute;
+	left: 473.28px;
+	top: 546.97px;
+	overflow: visible;
+}
+
+.vector-23 {
+	position: absolute;
+	left: 421.93px;
+	top: 481.86px;
+	overflow: visible;
+}
+
+.vector-24 {
+	position: absolute;
+	left: 472.53px;
+	top: 515.88px;
+	overflow: visible;
+}
+
+.vector-25 {
+	position: absolute;
+	left: 484.19px;
+	top: 291.93px;
+	overflow: visible;
+}
+
+.vector-26 {
+	position: absolute;
+	left: 70.47px;
+	top: 76.76px;
+	overflow: visible;
+}
+
+.vector-27 {
+	position: absolute;
+	left: 244.09px;
+	top: 61.55px;
+	overflow: visible;
+}
+
+.vector-28 {
+	position: absolute;
+	left: 238.36px;
+	top: 55.9px;
+	overflow: visible;
+}
+
+.vector-29 {
+	position: absolute;
+	left: 251.82px;
+	top: 69.15px;
+	overflow: visible;
+}
+
+.vector-30 {
+	position: absolute;
+	left: 486px;
+	top: 88.65px;
+	overflow: visible;
+}
+
+.vector-31 {
+	position: absolute;
+	left: 484.96px;
+	top: 341.23px;
+	overflow: visible;
+}
+
+.vector-32 {
+	position: absolute;
+	left: 286.04px;
+	top: 350.59px;
+	overflow: visible;
+}
+
+.vector-33 {
+	position: absolute;
+	left: 421.57px;
+	top: 352.57px;
+	overflow: visible;
+}
+
+.vector-34 {
+	position: absolute;
+	left: 314.61px;
+	top: 370.1px;
+	overflow: visible;
+}
+
+.vector-35 {
+	position: absolute;
+	left: 285.77px;
+	top: 369.71px;
+	overflow: visible;
+}
+
+.vector-36 {
+	position: absolute;
+	left: 286.2px;
+	top: 389.06px;
+	overflow: visible;
+}
+
+.vector-37 {
+	position: absolute;
+	left: 396.87px;
+	top: 390.72px;
+	overflow: visible;
+}
+
+.vector-38 {
+	position: absolute;
+	left: 405.07px;
+	top: 348.1px;
+	overflow: visible;
+}
+
+.group-2 {
+	opacity: 0.7200000286102295;
+	position: absolute;
+	left: 409.93px;
+	top: 353.82px;
+	overflow: visible;
+}
+
+.vector-40 {
+	position: absolute;
+	left: 298.86px;
+	top: 364.74px;
+	overflow: visible;
+}
+
+.group-3 {
+	opacity: 0.7200000286102295;
+	position: absolute;
+	left: 303.66px;
+	top: 370.43px;
+	overflow: visible;
+}
+
+.vector-42 {
+	position: absolute;
+	left: 396.86px;
+	top: 386.43px;
+	overflow: visible;
+}
+
+.group-4 {
+	opacity: 0.7200000286102295;
+	position: absolute;
+	left: 401.67px;
+	top: 392.08px;
+	overflow: visible;
+}
+
+.vector-44 {
+	position: absolute;
+	left: 285.15px;
+	top: 93.24px;
+	overflow: visible;
+}
+
+.vector-45 {
+	position: absolute;
+	left: 289.33px;
+	top: 112.6px;
+	overflow: visible;
+}
+
+.vector-46 {
+	position: absolute;
+	left: 323.43px;
+	top: 103.14px;
+	overflow: visible;
+}
+
+.vector-47 {
+	position: absolute;
+	left: 285.78px;
+	top: 122.81px;
+	overflow: visible;
+}
+
+.vector-48 {
+	position: absolute;
+	left: 507.91px;
+	top: 163.38px;
+	overflow: visible;
+}
+
+.vector-49 {
+	position: absolute;
+	left: 507.91px;
+	top: 174.79px;
+	overflow: visible;
+}
+
+.vector-50 {
+	position: absolute;
+	left: 507.91px;
+	top: 186.2px;
+	overflow: visible;
+}
+
+.vector-51 {
+	position: absolute;
+	left: 507.91px;
+	top: 197.61px;
+	overflow: visible;
+}
+
+.vector-52 {
+	position: absolute;
+	left: 507.91px;
+	top: 209.02px;
+	overflow: visible;
+}
+
+.vector-53 {
+	position: absolute;
+	left: 507.91px;
+	top: 275.65px;
+	overflow: visible;
+}
+
+.vector-54 {
+	position: absolute;
+	left: 507.91px;
+	top: 285.71px;
+	overflow: visible;
+}
+
+.vector-55 {
+	position: absolute;
+	left: 520.79px;
+	top: 360.96px;
+	overflow: visible;
+}
+
+.vector-56 {
+	position: absolute;
+	left: 526.88px;
+	top: 364.71px;
+	overflow: visible;
+}
+
+.vector-57 {
+	position: absolute;
+	left: 528.15px;
+	top: 227.35px;
+	overflow: visible;
+}
+
+.vector-58 {
+	position: absolute;
+	left: 428.09px;
+	top: 128.82px;
+	overflow: visible;
+}
+
+.vector-59 {
+	position: absolute;
+	left: 539.8px;
+	top: 111.78px;
+	overflow: visible;
+}
+
+.vector-60 {
+	position: absolute;
+	left: 530.77px;
+	top: 125.9px;
+	overflow: visible;
+}
+
+.vector-61 {
+	position: absolute;
+	left: 98.33px;
+	top: 134.91px;
+	overflow: visible;
+}
+
+.vector-62 {
+	position: absolute;
+	left: 312.17px;
+	top: 435.22px;
+	overflow: visible;
+}
+
+.vector-63 {
+	position: absolute;
+	left: 327.59px;
+	top: 365.71px;
+	overflow: visible;
+}
+
+.vector-64 {
+	position: absolute;
+	left: 383.41px;
+	top: 360.27px;
+	overflow: visible;
+}
+
+.vector-65 {
+	position: absolute;
+	left: 361.88px;
+	top: 439.19px;
+	overflow: visible;
+}
+
+.vector-66 {
+	position: absolute;
+	left: 343.44px;
+	top: 379.07px;
+	overflow: visible;
+}
+
+.vector-67 {
+	position: absolute;
+	left: 340.5px;
+	top: 388.28px;
+	overflow: visible;
+}
+
+.vector-68 {
+	position: absolute;
+	left: 114px;
+	top: 442.93px;
+	overflow: visible;
+}
+
+.vector-69 {
+	position: absolute;
+	left: 260.31px;
+	top: 248.62px;
+	overflow: visible;
+}
+
+.vector-70 {
+	position: absolute;
+	left: 209.67px;
+	top: 283.25px;
+	overflow: visible;
+}
+
+.vector-71 {
+	position: absolute;
+	left: 339.92px;
+	top: 459.19px;
+	overflow: visible;
+}
+
+.vector-72 {
+	position: absolute;
+	left: 124.81px;
+	top: 541.32px;
+	overflow: visible;
+}
+
+.vector-73 {
+	position: absolute;
+	left: 248.27px;
+	top: 442.07px;
+	overflow: visible;
+}
+
+.vector-74 {
+	position: absolute;
+	left: 278.93px;
+	top: 190.77px;
+	overflow: visible;
+}
+
+.vector-75 {
+	position: absolute;
+	left: 274.25px;
+	top: 182.25px;
+	overflow: visible;
+}
+
+.vector-76 {
+	position: absolute;
+	left: 115.57px;
+	top: 174.81px;
+	overflow: visible;
+}
+
+.vector-77 {
+	position: absolute;
+	left: 279.45px;
+	top: 254.03px;
+	overflow: visible;
+}
+
+.vector-78 {
+	position: absolute;
+	left: 261.36px;
+	top: 255.74px;
+	overflow: visible;
+}
+
+.vector-79 {
+	position: absolute;
+	left: 112.24px;
+	top: 169.85px;
+	overflow: visible;
+}
+
+.vector-80 {
+	position: absolute;
+	left: 273.44px;
+	top: 212.2px;
+	overflow: visible;
+}
+
+.vector-81 {
+	position: absolute;
+	left: 268.26px;
+	top: 205.47px;
+	overflow: visible;
+}
+
+.vector-82 {
+	position: absolute;
+	left: 251.03px;
+	top: 179.07px;
+	overflow: visible;
+}
+
+.vector-83 {
+	position: absolute;
+	left: 269.58px;
+	top: 232.84px;
+	overflow: visible;
+}
+
+.vector-84 {
+	position: absolute;
+	left: 366.19px;
+	top: 135.89px;
+	overflow: visible;
+}
+
+.vector-85 {
+	position: absolute;
+	left: 389.2px;
+	top: 165.27px;
+	overflow: visible;
+}
+
+.vector-86 {
+	position: absolute;
+	left: 361.95px;
+	top: 435.1px;
+	overflow: visible;
+}
+
+.vector-87 {
+	position: absolute;
+	left: 333.36px;
+	top: 450.74px;
+	overflow: visible;
+}
+
+.vector-88 {
+	position: absolute;
+	left: 383.53px;
+	top: 360.27px;
+	overflow: visible;
+}
+
+.vector-89 {
+	position: absolute;
+	left: 322.37px;
+	top: 360.28px;
+	overflow: visible;
+}
+
+.vector-90 {
+	position: absolute;
+	left: 375.23px;
+	top: 379.07px;
+	overflow: visible;
+}
+
+.vector-91 {
+	position: absolute;
+	left: 97.77px;
+	top: 382.36px;
+	overflow: visible;
+}
+
+.vector-92 {
+	position: absolute;
+	left: 92.84px;
+	top: 579.39px;
+	overflow: visible;
+}
+
+.vector-93 {
+	position: absolute;
+	left: 268.19px;
+	top: 402.29px;
+	overflow: visible;
+}
+
+.vector-94 {
+	position: absolute;
+	left: 113.14px;
+	top: 514.43px;
+	overflow: visible;
+}
+
+.vector-95 {
+	position: absolute;
+	left: 109.51px;
+	top: 83.25px;
+	overflow: visible;
+}
+
+.vector-96 {
+	position: absolute;
+	left: 114.38px;
+	top: 89.22px;
+	overflow: visible;
+}
+
+.bg {
+	position: absolute;
+	left: 1807.56px;
+	top: 1591.68px;
+	transform: translate(-1807.56px, -1321.04px);
+	overflow: visible;
+}
+
+.text {
+	position: absolute;
+	inset: 0;
+}
+
+.our-applications-provide-valuable-insights-into-system-performance-and-suggest-ways-to-conserve-water-promoting-sustainable-water-usage-habits-we-believe-that-technology-and-innovation-can-positively-impact-the-environment-and-communities-and-we-strive-to-make-a-difference-through-our-reliable-and-user-friendly-system-that-benefits-both-administrators-and-customers {
+	color: #000000;
+	text-align: left;
+	font: 500 32px 'Montserrat', sans-serif;
+	position: absolute;
+	left: 964.18px;
+	top: 850.9px;
+	width: 1005.82px;
+	height: 309.1px;
+}
+
+.water-wise-is-committed-to-promoting-efficient-and-sustainable-management-of-water-resources-for-a-healthy-planet-and-thriving-communities-we-offer-a-web-application-for-administrators-to-manage-equipment-used-for-building-the-water-supply-system-and-customers-profiles {
+	color: #000000;
+	text-align: left;
+	font: 500 32px 'Montserrat', sans-serif;
+	position: absolute;
+	left: 964.18px;
+	top: 573.42px;
+	width: 1005.82px;
+	height: 223.41px;
+}
+
+.about-us {
+	color: linear-gradient(98.28deg, rgba(74, 105, 100, 1.00) 0%, rgba(111, 156, 149, 1.00) 99.98999834060669%, rgba(111, 156, 149, 1.00) 100%);
+	text-align: center;
+	font: 700 96px 'Montserrat', sans-serif;
+	position: absolute;
+	left: 849px;
+	top: 400px;
+	width: 639.97px;
+	height: 119.36px;
+}
+
+.bubble {
+	position: absolute;
+	inset: 0;
+}
+
+.yearofexperience {
+	width: 309px;
+	height: 353px;
+	position: static;
+}
+
+.ellipse-20 {
+	background: linear-gradient(180deg, rgba(58, 149, 222, 0.38) 0%, rgba(58, 149, 222, 0.38) 99.98999834060669%, rgba(111, 156, 149, 0.00) 100%);
+	border-radius: 50%;
+	width: 249px;
+	height: 246px;
+	position: absolute;
+	left: 755px;
+	top: 1527px;
+}
+
+._5 {
+	color: #424242;
+	text-align: left;
+	font: 900 80px 'Montserrat', sans-serif;
+	position: absolute;
+	left: 864px;
+	top: 1594px;
+	width: 44px;
+	height: 92px;
+}
+
+.years-of-experience {
+	color: #4a6964;
+	text-align: center;
+	font: 800 32px 'Montserrat', sans-serif;
+	position: absolute;
+	left: 715px;
+	top: 1798px;
+	width: 309px;
+	height: 82px;
+}
+
+.experiencedemployee {
+	width: 309px;
+	height: 353px;
+	position: static;
+}
+
+.ellipse-202 {
+	background: linear-gradient(180deg, rgba(0, 166, 255, 0.27) 0%, rgba(58, 149, 222, 0.38) 99.98999834060669%, rgba(111, 156, 149, 0.00) 100%);
+	border-radius: 50%;
+	width: 249px;
+	height: 246px;
+	position: absolute;
+	left: 1131px;
+	top: 1527px;
+}
+
+._10 {
+	color: #424242;
+	text-align: left;
+	font: 900 80px 'Montserrat', sans-serif;
+	position: absolute;
+	left: 1222px;
+	top: 1596px;
+	width: 138px;
+	height: 92px;
+}
+
+.experienced-employee {
+	color: #4a6964;
+	text-align: center;
+	font: 800 32px 'Montserrat', sans-serif;
+	position: absolute;
+	left: 1091px;
+	top: 1798px;
+	width: 309px;
+	height: 82px;
+}
+
+.top {
+	position: absolute;
+	inset: 0;
+}
+
+.gradient-bg {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+.login {
+	background: #fffefe;
+	border-radius: 40px;
+	padding: 20px 30px 20px 30px;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	align-items: center;
+	justify-content: center;
+	width: 247px;
+	height: 72px;
+	position: absolute;
+	left: 1883px;
+	top: 74px;
+	box-shadow: 0px 11px 36px 0px rgba(0, 0, 0, 0.14);
+}
+
+.login2 {
+	color: #3f2013;
+	text-align: left;
+	font: 600 36px 'Montserrat', sans-serif;
+	position: relative;
+}
+
+.menu {
+	display: flex;
+	flex-direction: row;
+	gap: 30px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	position: absolute;
+	left: 1236px;
+	top: 88px;
+	overflow: hidden;
+}
+
+.home {
+	color: #fffefe;
+	text-align: left;
+	font: 700 36px 'Montserrat', sans-serif;
+	position: relative;
+}
+
+.about-us2 {
+	color: #fffefe;
+	text-align: left;
+	font: 700 36px 'Montserrat', sans-serif;
+	position: relative;
+}
+
+.contact-us2 {
+	color: #fffefe;
+	text-align: left;
+	font: 700 36px 'Montserrat', sans-serif;
+	position: relative;
+}
+
+.logo {
+	height: 97.53px;
+	position: absolute;
+	right: 1676.97px;
+	left: 77.9429931640625px;
+	top: 70.99px;
+}

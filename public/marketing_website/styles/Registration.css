@@ -1,0 +1,494 @@
+.register-page,
+.register-page * {
+    box-sizing: border-box;
+}
+
+.register-page {
+    background: #ffffff;
+    width: 2240px;
+    height: 1370px;
+    position: relative;
+    overflow: hidden;
+}
+
+.already-have-account {
+    display: flex;
+    flex-direction: row;
+    gap: 19px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 405px;
+    height: 40px;
+    position: absolute;
+    left: 917px;
+    top: 1128px;
+}
+
+.already-have-an-account {
+    color: #000000;
+    text-align: left;
+    font: 400 24px 'Montserrat', sans-serif;
+    position: relative;
+}
+
+.login {
+    color: #2b5b54;
+    text-align: left;
+    font: 400 24px 'Montserrat', sans-serif;
+    position: relative;
+    text-decoration: none;
+}
+
+.register-button {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 777px;
+    position: absolute;
+    left: 763px;
+    top: 1048px;
+}
+
+/* .button {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.button-base {
+    background: #4a6964;
+    border-radius: 8px;
+    padding: 12px 20px 12px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    height: 60px;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+} */
+
+.text {
+    color: var(--white, #ffffff);
+    text-align: left;
+    font: 700 24px/24px 'Montserrat', sans-serif;
+    position: relative;
+}
+
+.seller {
+    width: 691px;
+    height: 29px;
+    position: absolute;
+    left: 355px;
+    top: 904px;
+}
+
+.border {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 29px;
+    height: 30.04px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.seller2 {
+    color: #667085;
+    text-align: left;
+    font: 400 24px 'Montserrat', sans-serif;
+    position: absolute;
+    left: 52px;
+    top: 0px;
+}
+
+.company {
+    width: 691px;
+    height: 29px;
+    position: absolute;
+    left: 355px;
+    top: 867px;
+}
+
+.company2 {
+    color: #667085;
+    text-align: left;
+    font: 400 24px 'Montserrat', sans-serif;
+    position: absolute;
+    left: 52px;
+    top: 0px;
+}
+
+.register-type-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 739px;
+    position: absolute;
+    left: 355px;
+    top: 832px;
+}
+
+.input-field-base {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.input-with-label {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.label {
+    text-align: left;
+    font: 500 24px/20px 'Montserrat', sans-serif;
+    position: relative;
+}
+
+.label-span {
+    color: var(--gray-700, #344054);
+    font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+
+.company-uen-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 691px;
+    position: absolute;
+    left: 355px;
+    top: 680px;
+}
+
+.input-field-label {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.label-span3 {
+    color: var(--gray-700, #344054);
+    font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+.gender-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 691px;
+    position: absolute;
+    left: 1108px;
+    top: 528px;
+}
+
+.label-span5 {
+    color: var(--gray-700, #344054);
+    font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+.compnay-name-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 691px;
+    position: absolute;
+    left: 355px;
+    top: 528px;
+}
+
+.label-span7 {
+    color: var(--gray-700, #344054);
+    font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+
+.mobile-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 691px;
+    position: absolute;
+    left: 1108px;
+    top: 376px;
+}
+
+.label-span9 {
+    color: var(--gray-700, #344054);
+    font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+
+.email-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 691px;
+    position: absolute;
+    left: 355px;
+    top: 376px;
+}
+
+.label-span11 {
+    color: var(--gray-700, #344054);
+    font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+
+.lname-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 691px;
+    position: absolute;
+    left: 1108px;
+    top: 224px;
+}
+
+.label-span13 {
+    color: var(--gray-700, #344054);
+    font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+
+.fname-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 667px;
+    height: 87px;
+    position: absolute;
+    left: 355px;
+    top: 224px;
+}
+
+.label-span15 {
+    color: var(--gray-700, #344054);
+    font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+.register {
+    padding: 0px 32px 0px 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 1876px;
+    position: absolute;
+    left: 182px;
+    top: 116px;
+}
+
+.content2 {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.heading-and-supporting-text {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 768px;
+    position: relative;
+}
+
+.heading-and-subheading {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.heading {
+    color: #2b5b54;
+    text-align: center;
+    font: 800 64px/44px 'Montserrat', sans-serif;
+    position: relative;
+    align-self: stretch;
+}
+
+.rectangle-left {
+    position: absolute;
+    left: 242.27px;
+    top: -0.71px;
+    transform: translate(-242.27px, 0.71px);
+    overflow: visible;
+}
+
+.rectangle-right {
+    position: absolute;
+    left: 1995.88px;
+    top: 1372.02px;
+    transform: translate(-0.82px, -1371.2px);
+    overflow: visible;
+}
+
+.input-field {
+    background: var(--white, #ffffff);
+    border-radius: 8px;
+    border-style: solid;
+    border-color: var(--gray-300, #d0d5dd);
+    border-width: 1px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+    font-size: 24px;
+    width: 691px;
+    height: 61px;
+}
+
+.button {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.button-base {
+    background: #4a6964;
+    border-radius: 8px;
+    padding: 12px 20px 12px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+    outline: none;
+    cursor: pointer;
+}
+
+.radio-buttons {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.radio-buttons label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.radio-buttons input[type="radio"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid #4a6964;
+    outline: none;
+}
+
+.radio-buttons input[type="radio"]:checked {
+    background-color: #4a6964;
+}
+
+.dropdown {
+    position: relative;
+    width: 691px;
+}
+
+.dropdown select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 100%;
+    padding: 12px 16px;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 8px;
+    border: 2px solid #4a6964;
+    outline: none;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.dropdown::after {
+    content: '\25BE';
+    position: absolute;
+    top: 50%;
+    right: 12px;
+    transform: translateY(-50%);
+    font-size: 24px;
+    pointer-events: none;
+}

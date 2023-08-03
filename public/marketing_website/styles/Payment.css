@@ -1,0 +1,404 @@
+.payment-page,
+.payment-page * {
+	box-sizing: border-box;
+}
+
+.payment-page {
+	background: #ffffff;
+	width: 2240px;
+	height: 1370px;
+	position: relative;
+	overflow: hidden;
+}
+
+.rectangle-top {
+	position: absolute;
+	left: 2240.18px;
+	top: 171.39px;
+	transform: translate(-2240.18px, -168.97px);
+	overflow: visible;
+}
+
+.rectangle-top2 {
+	position: absolute;
+	left: 2240.18px;
+	top: 171.39px;
+	transform: translate(-2240.18px, -168.97px);
+	overflow: visible;
+}
+
+.frame-3 {
+	display: flex;
+	flex-direction: row;
+	gap: 88px;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 1114px;
+	position: absolute;
+	left: 941px;
+	top: 289px;
+}
+
+.payment {
+	padding: 0px 32px 0px 32px;
+	display: flex;
+	flex-direction: column;
+	gap: 32px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-shrink: 0;
+	width: 1114px;
+	position: relative;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	gap: 48px;
+	align-items: center;
+	justify-content: flex-start;
+	align-self: stretch;
+	flex-shrink: 0;
+	position: relative;
+}
+
+.heading-and-supporting-text {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	align-items: center;
+	justify-content: flex-start;
+	flex-shrink: 0;
+	width: 768px;
+	position: relative;
+}
+
+.heading-and-subheading {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	align-self: stretch;
+	flex-shrink: 0;
+	position: relative;
+}
+
+.heading {
+	color: #2b5b54;
+	text-align: center;
+	font: 800 64px/44px 'Montserrat', sans-serif;
+	position: relative;
+	align-self: stretch;
+}
+
+.card-holder-name-field {
+	display: flex;
+	flex-direction: column;
+	gap: 0px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-shrink: 0;
+	width: 788px;
+	position: relative;
+}
+
+.input-field-base {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	align-self: stretch;
+	flex-shrink: 0;
+	position: relative;
+}
+
+.input-field-label {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	align-self: stretch;
+	flex-shrink: 0;
+	position: relative;
+}
+
+.label {
+	text-align: left;
+	font: 500 24px/20px 'Montserrat', sans-serif;
+	position: relative;
+}
+
+.label-span {
+	color: var(--gray-700, #344054);
+	font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+.input {
+	background: var(--white, #ffffff);
+	border-radius: 8px;
+	border-style: solid;
+	border-color: var(--gray-300, #d0d5dd);
+	border-width: 1px;
+	padding: 12px 16px 12px 16px;
+	display: flex;
+	flex-direction: row;
+	gap: 8px;
+	align-items: center;
+	justify-content: flex-start;
+	align-self: stretch;
+	flex-shrink: 0;
+	height: 61px;
+	position: relative;
+	box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+	overflow: hidden;
+}
+
+.content2 {
+	display: flex;
+	flex-direction: row;
+	gap: 8px;
+	align-items: center;
+	justify-content: flex-start;
+	flex: 1;
+	position: relative;
+}
+
+.text {
+	color: var(--gray-500, #667085);
+	text-align: left;
+	font: 400 24px/24px 'Montserrat', sans-serif;
+	position: relative;
+	flex: 1;
+}
+
+.card-number-field {
+	display: flex;
+	flex-direction: column;
+	gap: 0px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-shrink: 0;
+	width: 788px;
+	position: relative;
+}
+
+.label-span3 {
+	color: var(--gray-700, #344054);
+	font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+
+.card-expire-field {
+	display: flex;
+	flex-direction: row;
+	gap: 19px;
+	align-items: flex-end;
+	justify-content: center;
+	flex-shrink: 0;
+	position: relative;
+}
+
+.month-field {
+	display: flex;
+	flex-direction: column;
+	gap: 0px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-shrink: 0;
+	width: 225px;
+	position: relative;
+}
+
+.label-span5 {
+	color: var(--gray-700, #344054);
+	font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+
+.year-field {
+	display: flex;
+	flex-direction: column;
+	gap: 0px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-shrink: 0;
+	width: 225px;
+	position: relative;
+}
+
+.cvc-field {
+	display: flex;
+	flex-direction: column;
+	gap: 0px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-shrink: 0;
+	width: 301px;
+	position: relative;
+}
+
+.label-span7 {
+	color: var(--gray-700, #344054);
+	font: 500 24px/20px 'Montserrat', sans-serif;
+}
+
+
+.cancel-button {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-shrink: 0;
+	width: 350px;
+	position: relative;
+}
+
+.text2 {
+	color: var(--white, #ffffff);
+	text-align: left;
+	font: 700 24px/24px 'Montserrat', sans-serif;
+	position: relative;
+}
+
+.submit-button {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-shrink: 0;
+	width: 350px;
+	position: relative;
+}
+
+.water-drop {
+	width: 643px;
+	height: 986px;
+	position: absolute;
+	left: 192px;
+	top: 211px;
+}
+
+.water-drop2 {
+	position: absolute;
+	inset: 0;
+}
+
+.inner-shadows {
+	position: absolute;
+	left: calc(50% - 419.5px);
+	top: calc(50% - 512px);
+	overflow: visible;
+}
+
+.drop {
+	position: absolute;
+	left: 35.17px;
+	top: 52.86px;
+	overflow: visible;
+}
+
+
+.input-field {
+    background: var(--white, #ffffff);
+    border-radius: 8px;
+    border-style: solid;
+    border-color: var(--gray-300, #d0d5dd);
+    border-width: 1px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+    font-size: 24px;
+    width: 788px;
+    height: 61px;
+}
+
+
+.input-field2 {
+    background: var(--white, #ffffff);
+    border-radius: 8px;
+    border-style: solid;
+    border-color: var(--gray-300, #d0d5dd);
+    border-width: 1px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+    font-size: 24px;
+    width: 225px;
+    height: 61px;
+}
+
+.input-field3 {
+    background: var(--white, #ffffff);
+    border-radius: 8px;
+    border-style: solid;
+    border-color: var(--gray-300, #d0d5dd);
+    border-width: 1px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+    font-size: 24px;
+    width: 301px;
+    height: 61px;
+}
+
+.button {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.button-base {
+    background: #4a6964;
+    border-radius: 8px;
+    padding: 12px 20px 12px 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    position: relative;
+    box-shadow: var(--shadow-xs-box-shadow, 0px 1px 2px 0px rgba(16, 24, 40, 0.05));
+    overflow: hidden;
+    outline: none;
+    cursor: pointer;
+    height: 60px;
+}
+
+
